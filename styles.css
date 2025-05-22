@@ -1,40 +1,9 @@
-  .block-heading {
-      text-align: center;
-      color: #3b99e0;
-      margin-bottom: 30px;
-    }
+.heading {
+  color: #3b99e0;
+}
 
-    .summary {
-      background-color: #f7fbff;
-      border-top: 3px solid #5ea4f3;
-      padding: 20px;
-      border-bottom: 1px solid #ddd;
-    }
-
-    .product {
-      border-bottom: 1px solid #eee;
-      padding: 15px 0;
-    }
-
-    .summary .btn {
-      background-color: #3b99e0;
-      color: white;
-      border-radius: 0;
-      font-weight: bold;
-    }
-
-    .summary h5 {
-      font-weight: bold;
-    }
-
-    .product img {
-      width: 100px;
-    }
-
-    .product .description {
-      margin-left: 15px;
-    }
-
-    .quantity-input {
-      width: 60px;
-    }
+.summary {
+  border-top: 3px solid #5ea4f3;
+  background-color: #f7fbff;
+  border-bottom: 1px solid #dee2e6;
+}
